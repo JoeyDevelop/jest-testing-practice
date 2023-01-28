@@ -1,0 +1,1 @@
+This github project was made with the Odin Project to practice Jest testing.
